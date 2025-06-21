@@ -1,1 +1,1 @@
-citty=chennai
+city=chennai
